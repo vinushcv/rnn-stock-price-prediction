@@ -7,24 +7,24 @@ To develop a Recurrent Neural Network model for stock price prediction.
 ## Problem Statement and Dataset
 
 
-## DESIGN STEPS
+## Design Steps
 
-### STEP 1:
+### Step 1:
 Write your own steps
 
-### STEP 2:
+### Step 2:
 
-### STEP 3:
+### Step 3:
 
 
 
-## PROGRAM
+## Program
 #### Name:
 #### Register Number:
 
 Include your code here
 
-## OUTPUT
+## Output
 
 ### True Stock Price, Predicted Stock Price vs time
 
@@ -34,4 +34,4 @@ Include your plot here
 
 Include the mean square error
 
-## RESULT
+## Result
